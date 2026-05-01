@@ -52,6 +52,9 @@ flowchart TD
 ```
 ---
 
+[![Watch the Project](https://raw.githubusercontent.com/AIS-8-Hours-course-2025/4.-LinkedIn-Post-Agent-Image-Prompt-Generation-n8n/main/Thumbnail.png)](https://www.youtube.com/watch?v=BpqTi4xmYxg)
+
+---
 ## ⚙️ Node-by-node n8n Setup (detailed & numbered)
 ---
 
